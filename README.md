@@ -4,11 +4,9 @@ Material Design Template for DevFest 2015 Season
 Demo you can find here: http://vg.am/devfest
 
 ## Quick-start guide
-1.  [Fork](https://github.com/gdg-x/hoverboard/fork) this repo and clone locally or [download](https://github.com/gdg-x/hoverboard/archive/master.zip) and extract Project Hoverboard to where you want to work.
+1.  [Fork](https://github.com/GDG-Buea/cameroonpc/fork) this repo and clone locally.
 2.  Install [Node.js](www.nodejs.org).
 3.  Run `npm install -g gulp bower && npm install && bower install` from the root of the folder.
-4.  Modify template to suit your needs. You can find editable logos for the project [here](https://github.com/ozasadnyy/hoverboard-assets).
-
 
 #### Requirements
 
@@ -42,7 +40,7 @@ This lets you run `gulp` and `bower` from the command line.
 4)  Install the projects's local `npm` and `bower` dependencies.
 
 ```sh
-cd hoverboard && npm install && bower install
+cd cameroonpc && npm install && bower install
 ```
 
 This installs the element sets and tools the hoverboard template requires to build and serve apps.
