@@ -1,7 +1,6 @@
-# devfest2015
-Material Design Template for DevFest 2015 Season
+Material Design Template used to develop the Cameroon Programming Contest 2015 site.
 
-Demo you can find here: http://vg.am/devfest
+Demo of the site can be found here: http://vg.am/devfest
 
 ## Quick-start guide
 1.  [Fork](https://github.com/GDG-Buea/cameroonpc/fork) this repo and clone locally.
@@ -44,3 +43,9 @@ cd cameroonpc && npm install && bower install
 ```
 
 This installs the element sets and tools the hoverboard template requires to build and serve apps.
+
+5) To run the code and see the changes you've made, just open the index.html file in a browser OR on the terminal run
+
+```sh
+firefox index.html
+```
