@@ -1,4 +1,8 @@
-Material Design Template used to develop the Cameroon Programming Contest 2015 site.
+Material Design Template used to develop the Cameroon Programming Contest (CPC) 2015 site.
+
+The CPC is a competition where coders use algorithms to solve problems within a specific timeframe.
+
+It takes place on October 10th 2015 at the IT centre of the University of Buea, cameroon.
 
 Demo of the site can be found here: http://vg.am/devfest
 
